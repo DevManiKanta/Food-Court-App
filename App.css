@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  color: rgb(151, 224, 5);
+  
+}
+body{
+  background-image: url(https://img.freepik.com/free-photo/blur-coffee-cafe-shop-restaurant-with-bokeh-background_1421-472.jpg?size=626&ext=jpg&ga=GA1.2.1888065705.1678431942&semt=ais);
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.mapped {
+
+  display: inline-block;
+  align-items: center;
+  justify-content:center;
+ 
+}
+
+img{
+  width:200px;
+  height:300px;
+  padding: 10px; 
+}
+.cards{
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
